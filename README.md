@@ -1,2 +1,2 @@
 # megan-fox-layout
-just a google newsstand layout example
+just a google newsstand layout example made with :heart:
